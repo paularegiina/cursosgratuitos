@@ -1,7 +1,7 @@
 # cursosgratuitos
 30 Plataformas com cursos onlines e gratuitos em diversas áreas.
 
-FUNDAÇÃO BRADESCO: https://www.ev.org.br/
+FUNDAÇÃO BRADESCO: https://www.ev.org.br/ <br>
 DIO: https://www.dio.me/
 LINKEDIN LEARNING: https://www.linkedin.com/learning/
 FREE CODE CAMP: https://www.freecodecamp.org/learn/data-analysis-with-python/
