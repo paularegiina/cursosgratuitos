@@ -1,68 +1,67 @@
 # CursosGratuitos 📚
-##
 30 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
 ##
-FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.
-Link: https://www.ev.org.br/ <br>
+FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.<br>
+Link: https://www.ev.org.br/ 
 ##
-DIO: Programação e Tecnologia da Informação.
-Link: https://www.dio.me/ <br>
+DIO: Programação e Tecnologia da Informação.<br>
+Link: https://www.dio.me/ 
 ##
-LINKEDIN LEARNING: Várias Áreas de Conhecimento.
-Link: https://www.linkedin.com/learning/ <br>
+LINKEDIN LEARNING: Várias Áreas de Conhecimento.<br>
+Link: https://www.linkedin.com/learning/ 
 ##
-FREE CODE CAMP: Programação.
-Link: https://www.freecodecamp.org/learn/data-analysis-with-python/ <br>
+FREE CODE CAMP: Programação. <br>
+Link: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
 ##
-APTO: Tecnologia da Informação, Programação, Outros.
-Link: https://www.apto.academy/app/home <br>
+APTO: Tecnologia da Informação, Programação, Outros.<br>
+Link: https://www.apto.academy/app/home 
 ##
-GOOGLE DIGITAL GARAGE: Vendas, Marketing, Tecnologia da Informação, Outros.
-Link: https://learndigital.withgoogle.com/digitalgarage/ <br>
+GOOGLE DIGITAL GARAGE: Vendas, Marketing, Tecnologia da Informação, Outros.<br>
+Link: https://learndigital.withgoogle.com/digitalgarage/ 
 ##
-FIAP: Tecnologia da Informação, Inovação, Marketing, Vendas, Prohgramação.
-Link: https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/ <br>
+FIAP: Tecnologia da Informação, Inovação, Marketing, Vendas, Prohgramação.<br>
+Link: https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/ 
 ##
-FGV: Diversos.
-Link: https://lnkd.in/ednkciM <br>
+FGV: Diversos.<br>
+Link: https://lnkd.in/ednkciM 
 ##
-Universidade de Harvard: Diversos.
-Link: https://lnkd.in/eKxu3WD <br>
+Universidade de Harvard: Diversos.<br>
+Link: https://lnkd.in/eKxu3WD 
 ##
-Unesp: Diversos.
-Link: https://lnkd.in/eTSak6C <br>
+Unesp: Diversos.<br>
+Link: https://lnkd.in/eTSak6C 
 ##
-UFRGS:  Diversos.
-Link: https://lumina.ufrgs.br/ <br>
+UFRGS:  Diversos.<br>
+Link: https://lumina.ufrgs.br/ 
 ##
-CONQUER:  Diversos.
-Link: https://lnkd.in/dnPMezRZ <br>
+CONQUER:  Diversos.<br>
+Link: https://lnkd.in/dnPMezRZ 
 ##
-UDEMY:  Diversos.
-Link: https://lnkd.in/eR9VfHx <br>
+UDEMY:  Diversos.<br>
+Link: https://lnkd.in/eR9VfHx 
 ##
-UFRGS:  Diversos.
-Link: https://lumina.ufrgs.br/ <br>
+UFRGS:  Diversos. <br>
+Link: https://lumina.ufrgs.br/
 ##
-UNESP:  Diversos.
-Link: https://lnkd.in/eTSak6C <br>
+UNESP:  Diversos.<br>
+Link: https://lnkd.in/eTSak6C 
 ##
-VOITTO:  Diversos.
-Link: https://bit.ly/3IoNLHY <br>
+VOITTO:  Diversos.<br>
+Link: https://bit.ly/3IoNLHY 
 ##
-SOUK ANALYTICS:  Programação, Tecnologia da Informação, Negociação e Inovação, Outros.
-Link: https://soukanalytics.com/ <br>
+SOUK ANALYTICS:  Programação, Tecnologia da Informação, Negociação e Inovação, Outros.<br>
+Link: https://soukanalytics.com/ 
 ##
-Academia Forense Digital:  Diversos.
-Link: https://lnkd.in/ezKnSyFM <br>
+Academia Forense Digital:  Diversos.<br>
+Link: https://lnkd.in/ezKnSyFM 
 ##
-eSecurity:  Diversos.
-Link: https://esecurity.com.br/ <br>
+eSecurity:  Diversos.<br>
+Link: https://esecurity.com.br/ 
 ##
-Hackersec:  Diversos.
-Link: https://hackersec.com/ <br>
+Hackersec:  Diversos.<br>
+Link: https://hackersec.com/ 
 ##
-Solyd- (https://lnkd.in/evTik4fD) <br>
+Solyd: https://lnkd.in/evTik4fD <br>
 ##
 LetsDefend - (https://lnkd.in/eRVejhCM) <br>
 ##
