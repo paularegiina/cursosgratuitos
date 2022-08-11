@@ -1,6 +1,7 @@
-# CursosGratuitos
-30 Plataformas com cursos onlines e gratuitos em diversas áreas.
-
+# CursosGratuitos 📚
+##
+30 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
+##
 FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.
 Link: https://www.ev.org.br/ <br>
 ##
@@ -85,4 +86,4 @@ Escola Nacional de Adm Pública - ENAP: Diversos - Administração Pública.
 Link:  https://www.escolavirtual.gov.br/catalogo#inicio-listagem-cursos <br>
 ##
 <br>
-Bons Estudos!
+Desejo bons estudos!
