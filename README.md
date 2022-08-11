@@ -1,8 +1,11 @@
 # CursosGratuitos 📚
-30 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
+31 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
 ##
 FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.<br>
 Link: https://www.ev.org.br/ 
+##
+Workover: Programação, Tecnologia da Informação | Possibilidade de Contratação por Empresas.<br>
+Link: https://alunos.workover.com.br/login
 ##
 DIO: Programação e Tecnologia da Informação.<br>
 Link: https://www.dio.me/ 
