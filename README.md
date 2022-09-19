@@ -1,5 +1,5 @@
 # CursosGratuitos 📚
-31 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
+39 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
 ##
 FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.<br>
 Link: https://www.ev.org.br/ 
@@ -30,6 +30,29 @@ Link: https://lnkd.in/ednkciM
 ##
 Universidade de Harvard: Diversos.<br>
 Link: https://lnkd.in/eKxu3WD 
+##
+Customer Success da Rock University: https://lnkd.in/dJPepk8H
+##
+Introdução ao Sucesso do Cliente da RD University na Udemy:
+https://lnkd.in/defNVArC
+##
+Introdução ao Customer Success da CS Academy:
+https://lnkd.in/dyxDgVGk
+##
+Customer Success da CEFIS:
+https://lnkd.in/dJVhyGpn
+##
+Alguns cursos de atendimento e relacionamento livres na Udemy:
+https://lnkd.in/dfgYuYRQ
+##
+Customer Success para empreendedores da Endeavor Brasil:
+https://lnkd.in/dUUNUutw
+##
+As competências do especialista em Sucesso do Cliente na Coursera:
+https://lnkd.in/dSRdU233
+##
+Customer Service: competências básicas da Hi Academy:
+https://lnkd.in/dK5vxJk3
 ##
 Unesp: Diversos.<br>
 Link: https://lnkd.in/eTSak6C 
