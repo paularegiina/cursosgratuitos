@@ -1,5 +1,8 @@
 # CursosGratuitos 📚
-39 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
+40 PLATAFORMAS COM CURSOS ON-LINES E GRATUITOS EM DIVERSAS ÁREAS | A MAIORIA COM CERTIFICADO.
+##
+Google: Cresça com o Google.<br>
+Link: https://cresca.withgoogle.com/intl/pt-br/
 ##
 FUNDAÇÃO BRADESCO: Desenvolvimento Pessoal e Profissional, Tecnologia da Informação, Negócios e Inovação, Programação.<br>
 Link: https://www.ev.org.br/ 
